@@ -1,0 +1,14 @@
+G:\School\c#_education\Lesson_5\homework_01\bin\Debug\net8.0\homework_01.exe
+G:\School\c#_education\Lesson_5\homework_01\bin\Debug\net8.0\homework_01.deps.json
+G:\School\c#_education\Lesson_5\homework_01\bin\Debug\net8.0\homework_01.runtimeconfig.json
+G:\School\c#_education\Lesson_5\homework_01\bin\Debug\net8.0\homework_01.dll
+G:\School\c#_education\Lesson_5\homework_01\bin\Debug\net8.0\homework_01.pdb
+G:\School\c#_education\Lesson_5\homework_01\obj\Debug\net8.0\homework_01.GeneratedMSBuildEditorConfig.editorconfig
+G:\School\c#_education\Lesson_5\homework_01\obj\Debug\net8.0\homework_01.AssemblyInfoInputs.cache
+G:\School\c#_education\Lesson_5\homework_01\obj\Debug\net8.0\homework_01.AssemblyInfo.cs
+G:\School\c#_education\Lesson_5\homework_01\obj\Debug\net8.0\homework_01.csproj.CoreCompileInputs.cache
+G:\School\c#_education\Lesson_5\homework_01\obj\Debug\net8.0\homework_01.dll
+G:\School\c#_education\Lesson_5\homework_01\obj\Debug\net8.0\refint\homework_01.dll
+G:\School\c#_education\Lesson_5\homework_01\obj\Debug\net8.0\homework_01.pdb
+G:\School\c#_education\Lesson_5\homework_01\obj\Debug\net8.0\homework_01.genruntimeconfig.cache
+G:\School\c#_education\Lesson_5\homework_01\obj\Debug\net8.0\ref\homework_01.dll
